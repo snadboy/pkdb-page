@@ -6,8 +6,7 @@
   "permissions": [
     "activeTab",
     "debugger",
-    "identity",
-    "scripting"
+    "identity"
   ],
   "host_permissions": [
     "https://www.googleapis.com/*"
